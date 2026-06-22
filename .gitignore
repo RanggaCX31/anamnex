@@ -1,0 +1,31 @@
+# .gitignore
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editor configs
+.vscode/
+.idea/
+
+# Build / cache
+dist/
+.cache/
+
+# Env
+.env
+
+# Logs
+*.log
+
+# Others
+*.swp
